@@ -1,80 +1,51 @@
-// function setup() {
-//   createCanvas(640, 480);
-// }
-
-// function draw() {
-//   if (mouseIsPressed) {
-//     fill(0);
-//   } else {
-//     fill(255);
-//   }
-//   ellipse(mouseX, mouseY, 80, 80);
-// }
-
-
-// A wind direction vector
-var wind;
-// Circle position
-var position;
-
 function setup() {
-  createCanvas(720, 200);
-  // Request the data from apixu.com
-  var url = 'https://api.apixu.com/v1/current.json?key=513d8003c8b348f1a2461629162106&q=NYC';
-  loadJSON(url, gotWeather);
-  // Circle starts in the middle
-  position = createVector(width/2, height/2);
-  // wind starts as (0,0)
-  wind = createVector();
+  createCanvas(500, 500);
+  background('rgba(0,255,0, 0.25)');
 }
 
 function draw() {
-  background(200);
+  //head
+  fill(252,252,252);
+  stroke(252,252,252);
+  ellipseMode(CENTER);
+  ellipse(250,150,220,150);
+  //righteye
+  fill(0,0,0);
+  stroke(0,0,0);
+  ellipse(mouseX+200,mouseY+150,30,30);
+  //lefteye
+  fill(0,0,0);
+  ellipse(mouseX+300,mouseY+150,30,30);
+  //line between left and right eye
+  fill(0,0,0);
+  strokeWeight(2); 
+  line(200,150,300,150);
+  //leftblush
+  fill(255,201,160);
+  stroke(255,201,160);
+  ellipse(mouseX+180,mouseY+180,20,10);
+  //rightblush
+  fill(255,201,160);
+  stroke(255,201,160);
+  ellipse(mouseX+320,mouseY+180,20,10);
+  //body
+  fill(252,252,252);
+  stroke(252,252,252);
+  ellipse(mouseX+250,mouseY+400,380,400);
+  //port
+  fill(252,252,252);
+  stroke(0,0,0);
+  ellipse(mouseX+340,mouseY+300,50,50);
+  line(317,300,330,300);
+  line(330,300,330,290);
+  line(330,290,350,290);
+  line(350,290,350,300);
+  line(350,300,365,300);
+  //text
+  fill(252,252,252);
+  textSize(25)
+  text("Hello World!",340,100);
+ }
+ 
 
-  // This section draws an arrow pointing in the direction of wind
-  push();
-  translate(32, height - 32);
-  // Rotate by the wind's angle
-  rotate(wind.heading() + PI/2);
-  noStroke();
-  fill(255);
-  ellipse(0, 0, 48, 48);
 
-  stroke(45, 123, 182);
-  strokeWeight(3);
-  line(0, -16, 0, 16);
-
-  noStroke();
-  fill(45, 123, 182);
-  triangle(0, -18, -6, -10, 6, -10);
-  pop();
-
-  // Move in the wind's direction
-  position.add(wind);
-
-  stroke(0);
-  fill(51);
-  ellipse(position.x, position.y, 16, 16);
-
-  if (position.x > width)  position.x = 0;
-  if (position.x < 0)      position.x = width;
-  if (position.y > height) position.y = 0;
-  if (position.y < 0)      position.y = height;
-
-
-}
-
-function gotWeather(weather) {
-
-  // Get the angle (convert to radians)
-  var angle = radians(Number(weather.current.wind_degree));
-  // Get the wind speed
-  var windmag = Number(weather.current.wind_mph);
-
-  // Display as HTML elements
-  var temperatureDiv = createDiv(floor(weather.current.temp_f) + '&deg;');
-  var windDiv = createDiv("WIND " + windmag + " <small>MPH</small>");
-
-  // Make a vector
-  wind = p5.Vector.fromAngle(angle);
-}
