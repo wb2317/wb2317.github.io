@@ -11,7 +11,7 @@
    var m = minute();
    var s = second();
   
-   noStroke();
+   strokeWeight();
    fill(255,0,0,150)
    arc1 = map(s, 0, 60, 0, 360);
    arc(width/2, height/2, 300, 300, 0, arc1); 
