@@ -17,6 +17,8 @@ var hitwords = [
   "can"
 ];
 
+
+
 function preload() {
 
   // Assemble url for API call
@@ -30,47 +32,70 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(1000, 1000);
+  createCanvas(600,800);
   background(255);
+  frameRate(20);
 
-  textSize(20);
-  textAlign(CENTER);
-
-  noLoop(); // since we're not animating, one frame is sufficient: run draw() just once
+  textSize(15);
+  textAlign(LEFT);
+  
+ 
 
   extractHeadlines();
 }
 
 function draw() {
-  background(255);
-  textSize(20);
+  
+  textSize(15);
+
+  var d = floor(random(255));
+  var e = floor(random(255));
+  var f = floor(random(255));
 
   var lineheight = 24;
-  var margin = 40;
+  var rectheight = 8;
+  var margin = 13;
   translate(margin, margin);
 
+  background(255);
+  fill(0)
+  rect(mouseX,mouseY,100,30);
+
+  
+  
+
   for (var i = 0; i < headlines.length; i++) {
+
+    
+
     var words = split(headlines[i], ' ');
+
     // console.log(words);
 
+  
     var nextX = 0;
 
+    
     for (var j = 0; j < words.length; j++) {
       if (hitwords.includes(words[j].toLowerCase())) {
-        fill("pink");
-        textSize(35); 
-        ;
-      } else {
-        fill("purple");
-        textSize(20)
+        fill(f,d,e);
+        textSize(15); 
+        strokeWeight(20);
+        stroke("yellow");
 
+      } else {
+        fill(255);
+        textSize(13)
+        noStroke();
       }
 
       text(words[j]+' ', nextX, i*lineheight);
       nextX += textWidth(words[j]+' ');
+
     }
   }
 }
+
 
 function extractHeadlines() {
 
@@ -78,10 +103,14 @@ function extractHeadlines() {
 
   for (var i = 0; i < nytResponse.results.length; i++) {
     var h = nytResponse.results[i].title;
-    // besides .title, other text data available to you include:
-    // .abstract, .byline, .section, etc. etc.
+
+   
+    
     append(headlines, h);
+
+    
   }
+
 
   // console.log(headlines); // make sure counted data looks as expected
 }

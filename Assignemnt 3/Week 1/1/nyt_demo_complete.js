@@ -34,7 +34,7 @@ function setup() {
   background(255);
 
   textSize(20);
-  textAlign(CENTER);
+  textAlign(LEFT);
 
   noLoop(); // since we're not animating, one frame is sufficient: run draw() just once
 
@@ -58,7 +58,7 @@ function draw() {
     for (var j = 0; j < words.length; j++) {
       if (hitwords.includes(words[j].toLowerCase())) {
         fill("pink");
-        textSize(35); 
+        textSize(30); 
         ;
       } else {
         fill("purple");
