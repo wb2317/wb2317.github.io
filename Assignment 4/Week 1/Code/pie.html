@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+
+<head>
+	<title>Count of Tree by Borough</title>
+	<script src="dist/Chart.bundle.js"></script>
+	<script src="utils.js"></script>
+</head>
+
+<body>
+	<canvas id="myPieChart" width="400" height="200"></canvas>
+<script>
+var ctx = document.getElementById("myPieChart").getContext('2d');
+var myPieChart = new Chart(ctx, {
+    type: 'doughnut',
+    data: {
+        labels: ["Brooklyn", "Queens", "Manhattan", "Bronx", "Staten Island"],
+        datasets: [{
+            label: 'Count of Tree by Borough',
+            data: [177293, 250551, 65423, 85203, 105318],
+            backgroundColor: [
+                'rgba(255, 99, 132, 0.2)',
+                'rgba(54, 162, 235, 0.2)',
+                'rgba(255, 206, 86, 0.2)',
+                'rgba(75, 192, 192, 0.2)',
+                'rgba(153, 102, 255, 0.2)',
+            ],
+           
+        }]
+    },
+    options: {
+        responsive: true
+                
+           
+        
+    }
+});
+</script>
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+
