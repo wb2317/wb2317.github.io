@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<title>Assignment 6: Misrepresentation</title>
+<style>
+body { 
+  display: grid;
+  grid-template-areas: 
+    "header header header"
+    "article article article"
+    "footer footer footer";
+  grid-template-rows: 60px 1fr 60px;
+  grid-template-columns: 20% 1fr 15%;
+  grid-gap: 10px;
+  height: 100vh;
+  margin: 0;
+  }
+/* Stack the layout on small devices/viewports. */
+@media all and (max-width: 575px) {
+  body { 
+    grid-template-areas: 
+      "header"
+      "article"
+      "footer";
+    grid-template-rows: 80px 1fr 70px 1fr 70px;  
+    grid-template-columns: 1fr;
+ }
+}
+#pageHeader {
+  grid-area: header;
+}
+#pageFooter {
+  grid-area: footer;
+}
+#mainArticle { 
+  grid-area: article;      
+  }
+
+header, footer {
+  padding: 20px;
+  background: gold;
+}
+article {
+  padding: 20px;
+  background: white;
+}
+</style>
+<body>
+  <header style="font-size:200%;"id="pageHeader"><b>Misrepresentation: NYC Primary Land Use Tax Lot Output (PLUTO)</b></header>
+  <article id="mainArticle">
+    <img src="1.png" alt="Mo" style="width:500px;height:400px;">
+    <p>
+     This graph shows the correlation between building area and lot area across 5 boroughs. The data named "PLUTO" is taken from the website of NYC Planning.
+     In the legend, the name of borough is not fully spelled, which is abbreviated as "BK", "BX", "MN", "QN", "SI". For those who are not familiar with NYC boroughs, it is hard for them to recall what it refers to. Each borough is represented by different colored dot. However, many of them are overlapped with each other and it is very hard to read their positions. Moreover, the scale of Y-axis is coded as non-decimal form. "E+n" normally means *10^n. So, if it was 5E+05, it would be 500,000 - that is, 5 * 10^5, or 5 with five zeros after it. People may get confused if they know nothing about it. In this case, additional interpretation is highly recommended for this graph. 
+</p>
+<img src="3.png" alt="Mo" style="width:500px;height:400px;">
+<p>
+  Then, I attempt to avoid presenting overlapping dots as shown in the graph above. Now, dots are separated with each other as individual hexagon. A new legend on the top right ambiguously gives the actual count number each hexagon represents by assigning different degree of blue. However, it is meaningless when every hexagon is the same color - black. Another problem is that colors are not easily differentiated to see the trend with respect to the correlation between building area and lot area in five boroughs.  
+</p>
+<img src="4.png" alt="Mo" style="width:500px;height:400px;">
+<p>
+  To solve the previous misrepresentation problems, I made the third graph, which displays degree of variation in colors for "count" and five regression lines in this scatterplot. When interpreting the relationship of variables, slope or trend is important because it tells you how much you can expect Building Area to change as Lot Area increases. In conclusion, Building Area and Lot Area in Manhattan is more positively correlated compared with other five boroughs.  
+</p>
+</article>
+  <footer id="pageFooter"><b>Data Source: http://www1.nyc.gov/site/planning/data-maps/open-data/dwn-pluto-mappluto.page</b></footer>
+</body>
