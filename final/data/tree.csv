@@ -1,0 +1,340 @@
+id,tree_dbh,health,tree_dbh,spc_common,problems,nta_name
+356,5,Poor,5,crab apple,"Stones,WiresRope",Upper East Side-Carnegie Hill
+357,6,Good,6,Callery pear,Stones,Upper East Side-Carnegie Hill
+358,10,Good,10,Callery pear,"Stones,RootOther,BranchOther",Upper East Side-Carnegie Hill
+359,10,Good,10,Callery pear,"Stones,RootOther,BranchOther",Upper East Side-Carnegie Hill
+396,11,Fair,11,Callery pear,Stones,Upper East Side-Carnegie Hill
+419,7,Good,7,honeylocust,BranchLights,Upper East Side-Carnegie Hill
+420,7,Fair,7,littleleaf linden,"MetalGrates,TrunkOther,BranchLights",Upper East Side-Carnegie Hill
+421,7,Fair,7,Callery pear,"Stones,TrunkOther",Upper East Side-Carnegie Hill
+424,5,Good,5,Callery pear,"RootOther,TrunkLights,BranchLights",Upper East Side-Carnegie Hill
+425,10,Fair,10,Callery pear,"RootOther,TrunkLights,BranchLights",Upper East Side-Carnegie Hill
+426,14,Fair,14,Callery pear,"RootOther,TrunkLights,BranchLights",Upper East Side-Carnegie Hill
+431,11,Good,11,Callery pear,Stones,Upper East Side-Carnegie Hill
+446,11,Good,11,ginkgo,RootOther,Upper East Side-Carnegie Hill
+447,9,Good,9,ginkgo,RootOther,Upper East Side-Carnegie Hill
+448,11,Good,11,ginkgo,RootOther,Upper East Side-Carnegie Hill
+449,12,Good,12,ginkgo,"RootOther,BranchLights",Upper East Side-Carnegie Hill
+450,13,Fair,13,honeylocust,"RootOther,BranchOther",Upper East Side-Carnegie Hill
+452,11,Fair,11,green ash,MetalGrates,Upper East Side-Carnegie Hill
+455,5,Fair,5,Callery pear,BranchLights,Upper East Side-Carnegie Hill
+770,6,Good,6,pin oak,Stones,Clinton
+771,6,Good,6,pin oak,Stones,Clinton
+772,6,Good,6,pin oak,Stones,Clinton
+773,6,Good,6,pin oak,Stones,Clinton
+797,26,Good,26,London planetree,BranchOther,Clinton
+801,4,Fair,4,ginkgo,TrunkOther,Clinton
+802,20,Good,20,London planetree,BranchOther,Clinton
+803,5,Poor,5,ginkgo,TrunkOther,Clinton
+805,20,Good,20,London planetree,"TrunkOther,BranchOther",Clinton
+806,11,Good,11,honeylocust,Stones,Clinton
+830,4,Good,4,swamp white oak,BranchOther,Clinton
+832,5,Fair,5,swamp white oak,BranchOther,Clinton
+833,4,Poor,4,Callery pear,BranchOther,Lincoln Square
+834,4,Fair,4,Callery pear,"TrunkOther,BranchOther",Lincoln Square
+835,4,Good,4,Callery pear,TrunkOther,Lincoln Square
+836,8,Good,8,ginkgo,TrunkOther,Lincoln Square
+837,4,Good,4,Callery pear,TrunkOther,Lincoln Square
+838,4,Fair,4,Callery pear,"WiresRope,TrunkOther,BranchOther",Lincoln Square
+839,7,Good,7,ginkgo,"TrunkOther,BranchOther",Lincoln Square
+840,6,Good,6,ginkgo,TrunkOther,Lincoln Square
+841,10,Good,10,ginkgo,TrunkOther,Lincoln Square
+842,8,Good,8,ginkgo,TrunkOther,Lincoln Square
+843,11,Good,11,ginkgo,TrunkOther,Lincoln Square
+845,9,Good,9,ginkgo,TrunkOther,Lincoln Square
+846,8,Good,8,ginkgo,TrunkOther,Lincoln Square
+848,3,Poor,3,ginkgo,"TrunkOther,BranchOther",Lincoln Square
+876,11,Fair,11,pin oak,Stones,Clinton
+877,4,Fair,4,honeylocust,RootOther,Clinton
+878,4,Fair,4,honeylocust,RootOther,Clinton
+879,3,Fair,3,swamp white oak,BranchOther,Clinton
+880,13,Fair,13,white pine,Stones,Clinton
+884,3,Poor,3,Norway maple,TrunkOther,Clinton
+891,9,Fair,9,Callery pear,BranchOther,Lincoln Square
+892,9,Fair,9,Callery pear,BranchOther,Lincoln Square
+893,9,Fair,9,Callery pear,BranchOther,Lincoln Square
+903,9,Good,9,pin oak,MetalGrates,Clinton
+904,9,Good,9,Norway maple,MetalGrates,Clinton
+905,7,Good,7,pin oak,MetalGrates,Clinton
+906,9,Good,9,pin oak,MetalGrates,Clinton
+907,3,Good,3,black oak,MetalGrates,Clinton
+908,14,Good,14,pin oak,MetalGrates,Clinton
+909,13,Good,13,pin oak,MetalGrates,Clinton
+910,15,Good,15,pin oak,MetalGrates,Clinton
+911,16,Good,16,black oak,MetalGrates,Clinton
+915,8,Good,8,ginkgo,TrunkOther,Lincoln Square
+916,3,Fair,3,ginkgo,TrunkOther,Lincoln Square
+919,11,Good,11,ginkgo,TrunkOther,Lincoln Square
+920,9,Good,9,ginkgo,TrunkOther,Lincoln Square
+921,10,Good,10,ginkgo,"Stones,TrunkOther",Lincoln Square
+932,10,Good,10,Callery pear,BranchOther,Lincoln Square
+933,10,Good,10,Callery pear,BranchOther,Lincoln Square
+934,12,Good,12,Callery pear,BranchOther,Lincoln Square
+935,9,Good,9,Callery pear,BranchOther,Lincoln Square
+936,9,Good,9,Callery pear,BranchOther,Lincoln Square
+937,13,Good,13,Callery pear,BranchOther,Lincoln Square
+973,13,Good,13,pin oak,MetalGrates,Clinton
+974,7,Good,7,pin oak,MetalGrates,Clinton
+975,7,Good,7,pin oak,MetalGrates,Clinton
+976,12,Good,12,pin oak,MetalGrates,Clinton
+977,13,Good,13,pin oak,MetalGrates,Clinton
+978,3,Good,3,pin oak,MetalGrates,Clinton
+1016,9,Good,9,honeylocust,TrunkLights,Clinton
+1017,17,Good,17,pin oak,MetalGrates,Clinton
+1018,13,Good,13,pin oak,MetalGrates,Clinton
+1019,3,Good,3,pin oak,MetalGrates,Clinton
+1020,13,Good,13,pin oak,MetalGrates,Clinton
+2551,25,Good,25,pin oak,Stones,Upper West Side
+2553,34,Good,34,pin oak,Stones,Upper West Side
+2555,29,Good,29,pin oak,Stones,Upper West Side
+2557,29,Good,29,pin oak,Stones,Upper West Side
+2560,34,Good,34,pin oak,Stones,Upper West Side
+2561,27,Good,27,pin oak,Stones,Upper West Side
+2563,26,Good,26,pin oak,Stones,Upper West Side
+2564,28,Good,28,pin oak,Stones,Upper West Side
+2566,27,Good,27,pin oak,TrunkOther,Upper West Side
+2702,3,Fair,3,pin oak,TrunkOther,Upper West Side
+2704,12,Good,12,littleleaf linden,BranchOther,Upper West Side
+2711,14,Good,14,littleleaf linden,Stones,Upper West Side
+2712,6,Good,6,Callery pear,Stones,Upper West Side
+2714,7,Good,7,littleleaf linden,Stones,Upper West Side
+2715,12,Good,12,littleleaf linden,RootOther,Upper West Side
+2716,8,Good,8,littleleaf linden,Stones,Upper West Side
+2717,13,Good,13,littleleaf linden,RootOther,Upper West Side
+2754,4,Fair,4,honeylocust,"Stones,TrunkOther,BranchOther",Washington Heights North
+2755,14,Fair,14,honeylocust,"Stones,BranchOther",Washington Heights North
+2756,3,Fair,3,honeylocust,"Stones,BranchOther",Washington Heights North
+2757,12,Fair,12,honeylocust,"Stones,BranchOther",Washington Heights North
+2759,4,Good,4,pin oak,WiresRope,Washington Heights North
+2760,4,Good,4,pin oak,"WiresRope,TrunkOther",Washington Heights North
+2761,4,Good,4,pin oak,TrunkOther,Washington Heights North
+2762,3,Fair,3,pin oak,RootOther,Washington Heights North
+2763,3,Good,3,pin oak,TrunkOther,Washington Heights North
+2764,3,Poor,3,pin oak,TrunkOther,Washington Heights North
+3146,2,Good,2,Japanese zelkova,Stones,Washington Heights North
+3147,9,Good,9,honeylocust,Stones,Washington Heights North
+3148,6,Good,6,honeylocust,"Stones,RootOther",Washington Heights North
+3174,13,Good,13,pin oak,RootOther,Washington Heights North
+3175,18,Good,18,pin oak,RootOther,Washington Heights North
+3176,15,Good,15,pin oak,RootOther,Washington Heights North
+3177,13,Good,13,pin oak,RootOther,Washington Heights North
+3178,17,Fair,17,pin oak,RootOther,Washington Heights North
+3179,14,Good,14,pin oak,RootOther,Washington Heights North
+3180,13,Good,13,pin oak,RootOther,Washington Heights North
+3299,5,Good,5,katsura tree,"Stones,TrunkOther",Washington Heights North
+3300,5,Fair,5,honeylocust,TrunkOther,Washington Heights North
+3303,10,Good,10,honeylocust,"RootOther,BranchOther",Washington Heights North
+3304,1,Good,1,ginkgo,RootOther,Washington Heights North
+3782,5,Fair,5,honeylocust,"TrunkOther,BranchOther",Washington Heights North
+3783,5,Fair,5,honeylocust,"TrunkOther,BranchOther",Washington Heights North
+3784,8,Fair,8,honeylocust,"TrunkOther,BranchOther",Washington Heights North
+3786,4,Fair,4,London planetree,"TrunkOther,BranchOther",Washington Heights North
+3787,4,Fair,4,London planetree,"TrunkOther,BranchOther",Washington Heights North
+3788,4,Good,4,London planetree,TrunkOther,Washington Heights North
+3789,22,Good,22,cherry,"TrunkOther,BranchOther",Washington Heights North
+3790,10,Good,10,pin oak,"TrunkOther,BranchOther",Washington Heights North
+3791,3,Good,3,swamp white oak,"TrunkOther,BranchOther",Washington Heights North
+3800,13,Good,13,honeylocust,BranchOther,Washington Heights North
+3801,15,Fair,15,honeylocust,BranchOther,Washington Heights North
+3802,14,Fair,14,honeylocust,"TrunkOther,BranchOther",Washington Heights North
+3813,3,Good,3,swamp white oak,RootOther,Washington Heights North
+3818,4,Good,4,Japanese zelkova,TrunkOther,Washington Heights North
+3820,5,Good,5,Japanese zelkova,Stones,Washington Heights North
+3821,5,Good,5,pin oak,Stones,Washington Heights North
+3822,7,Good,7,littleleaf linden,Stones,Washington Heights North
+3847,3,Good,3,honeylocust,Stones,Washington Heights North
+3848,8,Good,8,honeylocust,"Stones,WiresRope",Washington Heights North
+3849,11,Good,11,honeylocust,Stones,Washington Heights North
+3850,12,Good,12,honeylocust,Stones,Washington Heights North
+4226,3,Good,3,pin oak,Stones,Washington Heights North
+4227,11,Good,11,pin oak,Stones,Washington Heights North
+4228,2,Fair,2,pin oak,Stones,Washington Heights North
+4229,3,Good,3,pin oak,Stones,Washington Heights North
+4230,3,Good,3,pin oak,Stones,Washington Heights North
+4231,4,Good,4,pin oak,Stones,Washington Heights North
+4239,7,Good,7,paper birch,TrunkOther,Washington Heights North
+4240,5,Good,5,northern red oak,Stones,Washington Heights North
+4241,4,Fair,4,swamp white oak,Stones,Washington Heights North
+4242,8,Fair,8,Chinese elm,Stones,Washington Heights North
+4243,11,Good,11,katsura tree,Stones,Washington Heights North
+4254,4,Fair,4,bald cypress,"Stones,BranchOther",Washington Heights North
+4256,16,Good,16,pin oak,"RootOther,BranchOther",Washington Heights North
+4266,4,Good,4,Japanese zelkova,Stones,Washington Heights North
+4267,4,Fair,4,Japanese zelkova,Stones,Washington Heights North
+4268,4,Good,4,Japanese zelkova,Stones,Washington Heights North
+4269,4,Fair,4,Japanese zelkova,Stones,Washington Heights North
+4270,18,Fair,18,London planetree,TrunkOther,Washington Heights North
+4271,5,Good,5,Japanese zelkova,Stones,Washington Heights North
+4272,5,Poor,5,Japanese zelkova,Stones,Washington Heights North
+4275,11,Fair,11,tree of heaven,"Stones,BranchLights",Washington Heights North
+4278,9,Good,9,honeylocust,"Stones,TrunkLights,BranchLights",Washington Heights North
+4279,8,Good,8,honeylocust,"Stones,BranchLights",Washington Heights North
+4283,4,Good,4,Callery pear,"Stones,RootOther,TrunkOther,BranchOther",Washington Heights North
+4284,9,Good,9,green ash,Stones,Washington Heights North
+4285,8,Good,8,sawtooth oak,RootOther,Washington Heights North
+4288,4,Good,4,silver linden,"Stones,RootOther",Washington Heights North
+4289,5,Good,5,ginkgo,TrunkOther,Washington Heights North
+4310,6,Good,6,ginkgo,BranchOther,Washington Heights North
+4313,17,Good,17,pin oak,"BranchLights,BranchOther",Washington Heights North
+4314,6,Good,6,northern red oak,Stones,Washington Heights North
+4315,6,Good,6,northern red oak,Stones,Washington Heights North
+4316,11,Good,11,Japanese zelkova,"Stones,BranchLights",Washington Heights North
+4317,6,Good,6,Japanese zelkova,Stones,Washington Heights North
+4319,3,Good,3,northern red oak,Stones,Washington Heights North
+4320,2,Fair,2,red maple,"RootOther,BranchOther",Washington Heights North
+4321,11,Good,11,honeylocust,RootOther,Washington Heights North
+4322,4,Poor,4,sweetgum,Stones,Washington Heights North
+4656,6,Good,6,honeylocust,"MetalGrates,TrunkOther,BranchOther",East Harlem South
+4657,6,Good,6,honeylocust,MetalGrates,East Harlem South
+4658,4,Good,4,honeylocust,MetalGrates,East Harlem South
+4659,4,Good,4,honeylocust,MetalGrates,East Harlem South
+4660,5,Poor,5,honeylocust,"MetalGrates,TrunkOther,BranchOther",East Harlem South
+4661,4,Good,4,honeylocust,"MetalGrates,BranchOther",East Harlem South
+4663,5,Good,5,honeylocust,MetalGrates,East Harlem South
+4664,6,Good,6,honeylocust,MetalGrates,East Harlem South
+4665,5,Good,5,honeylocust,MetalGrates,East Harlem South
+4669,4,Fair,4,American linden,Stones,East Harlem South
+4670,4,Good,4,littleleaf linden,BranchOther,East Harlem South
+4678,4,Good,4,pin oak,Stones,East Harlem South
+4679,4,Good,4,pin oak,Stones,East Harlem South
+4680,4,Fair,4,northern red oak,Stones,East Harlem South
+4681,4,Good,4,pin oak,Stones,East Harlem South
+4683,5,Fair,5,northern red oak,WiresRope,East Harlem South
+4684,4,Fair,4,northern red oak,WiresRope,East Harlem South
+4685,5,Fair,5,ginkgo,"Stones,RootOther,TrunkLights",East Harlem South
+4686,12,Good,12,honeylocust,"Stones,WiresRope",East Harlem South
+4687,3,Good,3,honeylocust,TrunkOther,East Harlem South
+4689,11,Good,11,honeylocust,RootOther,East Harlem South
+4691,5,Fair,5,Japanese zelkova,WiresRope,East Harlem South
+4692,14,Good,14,honeylocust,Stones,East Harlem South
+4693,13,Good,13,ginkgo,Stones,East Harlem South
+4694,11,Fair,11,London planetree,Stones,East Harlem South
+4695,15,Fair,15,London planetree,Stones,East Harlem South
+4697,4,Fair,4,red maple,Stones,East Harlem South
+4700,19,Good,19,London planetree,Stones,East Harlem South
+4701,4,Good,4,littleleaf linden,"Stones,WiresRope",East Harlem South
+4702,6,Good,6,littleleaf linden,Stones,East Harlem South
+4703,6,Good,6,littleleaf linden,Stones,East Harlem South
+4704,6,Good,6,littleleaf linden,RootOther,East Harlem South
+4707,8,Fair,8,Sophora,RootOther,East Harlem South
+4708,7,Fair,7,northern red oak,RootOther,East Harlem South
+4728,4,Fair,4,Chinese elm,RootOther,East Harlem South
+4731,4,Good,4,Chinese elm,"WiresRope,TrunkOther,BranchOther",East Harlem South
+4733,3,Poor,3,northern red oak,BranchOther,East Harlem South
+4734,6,Fair,6,Sophora,Stones,East Harlem South
+4735,4,Poor,4,northern red oak,"Stones,TrunkOther,BranchOther",East Harlem South
+4736,10,Good,10,honeylocust,WiresRope,Washington Heights North
+4737,9,Good,9,honeylocust,"Stones,BranchOther",Washington Heights North
+4738,10,Good,10,honeylocust,"Stones,WiresRope",Washington Heights North
+4739,9,Fair,9,honeylocust,"RootOther,BranchOther",Washington Heights North
+4740,5,Fair,5,honeylocust,"RootOther,BranchOther",Washington Heights North
+4741,11,Fair,11,honeylocust,Stones,Washington Heights North
+4745,20,Good,20,pin oak,"RootOther,TrunkOther",Washington Heights North
+4746,17,Good,17,pin oak,RootOther,Washington Heights North
+4747,21,Good,21,pin oak,"RootOther,BranchOther",Washington Heights North
+4753,4,Good,4,Sophora,"Stones,RootOther",Washington Heights North
+4754,6,Good,6,honeylocust,Stones,Washington Heights North
+4755,5,Good,5,honeylocust,Stones,Washington Heights North
+4756,5,Fair,5,honeylocust,Stones,Washington Heights North
+4757,6,Fair,6,honeylocust,Stones,Washington Heights North
+4758,4,Good,4,honeylocust,"Stones,RootOther",Washington Heights North
+4759,5,Good,5,swamp white oak,Stones,Washington Heights North
+4760,5,Fair,5,Japanese zelkova,Stones,Washington Heights North
+4762,5,Good,5,European beech,"Stones,RootOther,BranchOther",Washington Heights South
+4763,19,Good,19,Sophora,"Stones,RootOther,TrunkOther",Washington Heights North
+4764,3,Good,3,Sophora,RootOther,Washington Heights North
+4767,23,Good,23,honeylocust,"Stones,TrunkOther",Washington Heights North
+4769,3,Good,3,Sophora,BranchOther,Washington Heights North
+4771,11,Good,11,honeylocust,Stones,Washington Heights South
+4772,10,Good,10,honeylocust,Stones,Washington Heights South
+4773,9,Good,9,honeylocust,"Stones,BranchOther",Washington Heights South
+4775,13,Good,13,pin oak,"TrunkOther,BranchOther",Washington Heights North
+4778,2,Fair,2,swamp white oak,Stones,Washington Heights North
+4779,9,Good,9,honeylocust,BranchOther,Washington Heights North
+5644,17,Good,17,pin oak,TrunkOther,Washington Heights North
+5681,4,Good,4,black locust,BranchOther,Washington Heights North
+5682,9,Good,9,willow oak,BranchLights,Washington Heights North
+5683,7,Fair,7,Callery pear,BranchLights,Washington Heights North
+5684,9,Good,9,honeylocust,"Stones,WiresRope,BranchOther",Washington Heights North
+5689,4,Good,4,Sophora,TrunkOther,Washington Heights North
+5690,5,Good,5,Sophora,"RootOther,TrunkOther,BranchOther",Washington Heights North
+5691,5,Good,5,Sophora,TrunkOther,Washington Heights North
+5692,9,Good,9,Sophora,"Stones,WiresRope,BranchLights",Washington Heights North
+5693,3,Poor,3,Sophora,Stones,Washington Heights North
+5718,9,Good,9,honeylocust,"Stones,TrunkOther,BranchLights",Washington Heights North
+5720,11,Good,11,honeylocust,"Stones,BranchLights",Washington Heights North
+5722,7,Good,7,Sophora,"Stones,WiresRope",Washington Heights North
+5981,6,Fair,6,Sophora,Stones,Washington Heights North
+5982,14,Good,14,honeylocust,"MetalGrates,WiresRope,BranchOther",Washington Heights North
+5983,14,Fair,14,honeylocust,"MetalGrates,TrunkOther,BranchOther",Washington Heights North
+5984,9,Good,9,swamp white oak,"WiresRope,BranchOther",Washington Heights North
+5985,9,Good,9,honeylocust,RootOther,Washington Heights North
+5986,11,Good,11,honeylocust,"RootOther,BranchOther",Washington Heights North
+5987,3,Good,3,honeylocust,RootOther,Washington Heights North
+5988,5,Good,5,honeylocust,RootOther,Washington Heights North
+5989,16,Good,16,green ash,"Stones,BranchOther",Washington Heights North
+5990,18,Good,18,green ash,"Stones,TrunkOther",Washington Heights North
+6596,2,Good,2,pin oak,BranchOther,Central Harlem South
+6601,11,Fair,11,honeylocust,BranchOther,Central Harlem South
+6602,7,Good,7,honeylocust,BranchOther,Central Harlem South
+6604,11,Good,11,honeylocust,Stones,Central Harlem South
+6605,13,Good,13,honeylocust,RootOther,Central Harlem South
+6606,11,Fair,11,honeylocust,BranchOther,Central Harlem South
+6607,11,Fair,11,honeylocust,"Stones,RootOther,TrunkOther,BranchOther",Central Harlem South
+6647,9,Good,9,honeylocust,TrunkOther,Central Harlem South
+6684,18,Good,18,Japanese zelkova,RootOther,Central Harlem South
+6686,8,Fair,8,Japanese zelkova,WiresRope,Central Harlem South
+6690,17,Good,17,Japanese zelkova,WiresRope,Central Harlem South
+6691,12,Good,12,Japanese zelkova,"WiresRope,TrunkOther,BranchLights",Central Harlem South
+6754,2,Poor,2,magnolia,"TrunkOther,BranchOther",Central Harlem South
+6797,10,Good,10,Japanese zelkova,Stones,Central Harlem South
+6798,8,Fair,8,Japanese zelkova,"Stones,BranchOther",Central Harlem South
+6799,11,Fair,11,Japanese zelkova,Stones,Central Harlem South
+6800,14,Good,14,Japanese tree lilac,Stones,Central Harlem South
+6801,11,Good,11,Japanese tree lilac,"Stones,BranchLights",Central Harlem South
+6802,7,Fair,7,Japanese tree lilac,"Stones,BranchOther",Central Harlem South
+6866,17,Good,17,ginkgo,TrunkOther,Central Harlem South
+6867,7,Fair,7,ginkgo,BranchOther,Central Harlem South
+6869,7,Fair,7,ginkgo,TrunkOther,Central Harlem South
+6870,18,Good,18,ginkgo,"RootOther,TrunkOther,BranchLights",Central Harlem South
+6872,15,Fair,15,ginkgo,Stones,Central Harlem South
+6873,9,Good,9,ginkgo,"Stones,BranchOther",Central Harlem South
+6875,9,Good,9,ginkgo,WiresRope,Central Harlem South
+6878,18,Good,18,ginkgo,"Stones,WiresRope",Central Harlem South
+6879,9,Good,9,ginkgo,WiresRope,Central Harlem South
+6880,11,Good,11,ginkgo,WiresRope,Central Harlem South
+6881,9,Good,9,ginkgo,WiresRope,Central Harlem South
+6882,17,Good,17,ginkgo,"RootOther,TrunkOther",Central Harlem South
+6883,8,Fair,8,ginkgo,TrunkOther,Central Harlem South
+6884,17,Fair,17,ginkgo,Stones,Central Harlem South
+6886,19,Fair,19,London planetree,Stones,Central Harlem South
+6888,27,Fair,27,London planetree,Stones,Central Harlem South
+6889,7,Good,7,ginkgo,Stones,Central Harlem South
+6952,7,Fair,7,Callery pear,Stones,Central Harlem South
+6953,4,Fair,4,Japanese zelkova,RootOther,Central Harlem South
+7013,7,Fair,7,littleleaf linden,Stones,Central Harlem South
+7015,5,Poor,5,littleleaf linden,Stones,Central Harlem South
+7016,6,Fair,6,silver linden,RootOther,Central Harlem South
+7017,11,Fair,11,Japanese zelkova,Stones,Central Harlem South
+7023,11,Fair,11,honeylocust,Stones,Central Harlem South
+7024,4,Fair,4,Japanese zelkova,WiresRope,Central Harlem South
+7025,9,Fair,9,Japanese zelkova,BranchLights,Central Harlem South
+7026,4,Fair,4,Japanese zelkova,TrunkOther,Central Harlem South
+7027,5,Fair,5,Japanese zelkova,WiresRope,Central Harlem South
+7028,5,Fair,5,Japanese zelkova,WiresRope,Central Harlem South
+7029,3,Poor,3,Japanese zelkova,WiresRope,Central Harlem South
+7030,4,Fair,4,Japanese zelkova,WiresRope,Central Harlem South
+7031,10,Good,10,Japanese zelkova,Stones,Central Harlem South
+7033,10,Fair,10,Chinese elm,MetalGrates,Central Harlem South
+7034,9,Good,9,Chinese elm,MetalGrates,Central Harlem South
+7058,11,Fair,11,silver linden,TrunkOther,Central Harlem South
+7059,12,Good,12,silver linden,BranchOther,Central Harlem South
+7061,11,Good,11,silver linden,Stones,Central Harlem South
+7115,5,Fair,5,honeylocust,"Stones,WiresRope",Central Harlem South
+7117,7,Fair,7,honeylocust,"Stones,RootOther",Central Harlem South
+7118,10,Fair,10,honeylocust,Stones,Central Harlem South
+7122,9,Fair,9,Japanese zelkova,Stones,Central Harlem South
+7124,12,Good,12,Japanese zelkova,Stones,Central Harlem South
+7125,2,Fair,2,eastern redbud,BranchOther,Central Harlem South
+7127,12,Good,12,Japanese zelkova,Stones,Central Harlem South
+7129,10,Fair,10,honeylocust,Stones,Central Harlem South
