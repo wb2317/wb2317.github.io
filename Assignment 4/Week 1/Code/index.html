@@ -1,6 +1,10 @@
 <html>
 <head>
 <canvas id="myChart" width="400" height="400"></canvas>
+<h1 style="text-align:center;">Count of Tree by Boroughs </h1>
+<h2>Source: 2015 NYC Stree Tree Census </h2>
+</head>
+<body>
 <script>
 var ctx = document.getElementById("myChart").getContext('2d');
 var myChart = new Chart(ctx, {
@@ -8,7 +12,7 @@ var myChart = new Chart(ctx, {
     data: {
         labels: ["Brooklyn", "Queens", "Manhattan", "Bronx", "Staten Island"],
         datasets: [{
-            label: '#Count of Tree by Borough of',
+            label: '#Count of Tree by Borough',
             data: [177293, 250551, 65423, 85203, 105318],
             backgroundColor: [
                 'rgba(255, 99, 132, 0.2)',
