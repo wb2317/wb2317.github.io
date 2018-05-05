@@ -1,0 +1,409 @@
+id,tree_dbh,health,spc_common,problems,address,borough,nta_name
+186346,2,Good,American larch,None,2535 CAMBRELENG AVENUE,Bronx,Belmont
+186347,2,Good,American larch,None,2541 CAMBRELENG AVENUE,Bronx,Belmont
+213889,12,Good,American larch,Stones,1276 DRUMGOOLE ROAD WEST,Staten Island,Arden Heights
+272163,9,Good,American larch,None,41-002 103 STREET,Queens,North Corona
+297096,7,Fair,American larch,None,134 EAST 70 STREET,Manhattan,Upper East Side-Carnegie Hill
+283420,22,Good,American larch,None,68 HARTFORD AVENUE,Staten Island,New Brighton-Silver Lake
+281813,4,Fair,American larch,None,139 WEST 116 STREET,Manhattan,Central Harlem South
+296160,4,Poor,American larch,None,40 EAST 80 STREET,Manhattan,Upper East Side-Carnegie Hill
+315049,4,Good,American larch,BranchOther,126 STERLING PLACE,Brooklyn,Park Slope-Gowanus
+358482,5,Good,American larch,None,359 BRYSON AVENUE,Staten Island,Westerleigh
+385237,4,Good,American larch,None,2750 VETERANS ROAD WEST,Staten Island,Charleston-Richmond Valley-Tottenville
+377896,8,Good,American larch,None,63-060 79 STREET,Queens,Middle Village
+385264,4,Good,American larch,None,2750 VETERANS ROAD WEST,Staten Island,Charleston-Richmond Valley-Tottenville
+416122,18,Good,American larch,None,1717 EAST 26 STREET,Brooklyn,Madison
+426274,6,Good,American larch,None,621 BARRETTO STREET,Bronx,Hunts Point
+440272,16,Good,American larch,Stones,602 YETMAN AVENUE,Staten Island,Charleston-Richmond Valley-Tottenville
+431132,3,Good,American larch,BranchOther,761 EAST 178 STREET,Bronx,East Tremont
+462809,3,Good,American larch,None,14 MACORMAC PLACE,Staten Island,Mariner's Harbor-Arlington-Port Ivory-Graniteville
+483046,13,Good,American larch,None,5235 FIELDSTON ROAD,Bronx,North Riverdale-Fieldston-Riverdale
+515113,2,Good,American larch,None,2762 CLAFLIN AVENUE,Bronx,Van Cortlandt Village
+554338,18,Fair,American larch,RootOther,41-069 WESTMORELAND STREET,Queens,Douglas Manor-Douglaston-Little Neck
+554357,18,Good,American larch,None,43-004 WESTMORELAND STREET,Queens,Douglas Manor-Douglaston-Little Neck
+554356,19,Good,American larch,None,43-004 WESTMORELAND STREET,Queens,Douglas Manor-Douglaston-Little Neck
+556497,4,Good,American larch,None,248-008 41 AVENUE,Queens,Douglas Manor-Douglaston-Little Neck
+554931,13,Good,American larch,BranchLights,69 LONGFELLOW AVENUE,Staten Island,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill
+554926,8,Good,American larch,"Stones,BranchLights",37 LONGFELLOW AVENUE,Staten Island,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill
+554084,6,Good,American larch,None,555 CALHOUN AVENUE,Bronx,Schuylerville-Throgs Neck-Edgewater Park
+612122,9,Fair,American larch,BranchLights,63-034 84 PLACE,Queens,Middle Village
+689805,4,Good,American larch,None,658 EAST 88 STREET,Brooklyn,Canarsie
+690034,5,Good,American larch,None,722 EAST 85 STREET,Brooklyn,Canarsie
+706815,13,Good,American larch,None,2112 EAST 5 STREET,Brooklyn,Homecrest
+8374,14,Good,American larch,None,1553 UNIONPORT ROAD,Bronx,Parkchester
+25135,3,Good,American larch,None,2262 STILLWELL AVENUE,Brooklyn,Gravesend
+33631,3,Good,American larch,None,2601 HENRY HUDSON PARKWAY WEST,Bronx,Spuyten Duyvil-Kingsbridge
+104178,13,Fair,American larch,None,323 EAST 65 STREET,Manhattan,Lenox Hill-Roosevelt Island
+113384,17,Good,American larch,None,365 WEST 120 STREET,Manhattan,Central Harlem South
+113409,7,Good,American larch,None,364 WEST 121 STREET,Manhattan,Central Harlem South
+135344,3,Good,American larch,None,101 MORNINGSIDE AVENUE,Manhattan,Morningside Heights
+130609,7,Good,American larch,RootOther,30-059 43 STREET,Queens,Astoria
+139700,9,Good,American larch,None,205 SOUTH 1 STREET,Brooklyn,North Side-South Side
+130541,4,Good,American larch,None,41-017 31 AVENUE,Queens,Astoria
+151140,13,Good,American larch,None,132 ARGYLE ROAD,Brooklyn,Flatbush
+167892,7,Good,American larch,RootOther,47-011 NEWTOWN ROAD,Queens,Astoria
+185464,12,Fair,American larch,None,1973 ARTHUR AVENUE,Bronx,East Tremont
+185463,15,Fair,American larch,None,590 EAST 178 STREET,Bronx,East Tremont
+185462,13,Fair,American larch,None,582 EAST 178 STREET,Bronx,East Tremont
+203580,22,Good,boxelder,"TrunkOther,BranchLights",89-011 69 AVENUE,Queens,Forest Hills
+195805,5,Poor,boxelder,"Stones,BranchOther",1076 1 AVENUE,Manhattan,Turtle Bay-East Midtown
+195803,5,Fair,boxelder,None,1076 1 AVENUE,Manhattan,Turtle Bay-East Midtown
+230985,5,Good,boxelder,None,497 DOANE AVENUE,Staten Island,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill
+201793,10,Good,boxelder,BranchLights,32 OTIS AVENUE,Staten Island,New Dorp-Midland Beach
+245708,22,Good,boxelder,None,330 MILES AVENUE,Staten Island,Great Kills
+249127,25,Good,boxelder,None,87-006 254 STREET,Queens,Bellerose
+211294,6,Good,boxelder,None,4408 MURDOCK AVENUE,Bronx,Woodlawn-Wakefield
+223008,7,Good,boxelder,None,1107 NEWKIRK AVENUE,Brooklyn,Flatbush
+225360,6,Good,boxelder,None,4182 BAYCHESTER AVENUE,Bronx,Woodlawn-Wakefield
+253394,5,Good,boxelder,None,2898 WELLMAN AVENUE,Bronx,Schuylerville-Throgs Neck-Edgewater Park
+259212,3,Fair,boxelder,None,212 76 STREET,Brooklyn,Bay Ridge
+280687,15,Good,boxelder,Stones,1694 NOSTRAND AVENUE,Brooklyn,Erasmus
+273296,17,Good,boxelder,BranchLights,48-035 206 STREET,Queens,Bayside-Bayside Hills
+254720,15,Good,boxelder,None,1531 GILLESPIE AVENUE,Bronx,Schuylerville-Throgs Neck-Edgewater Park
+321220,3,Poor,boxelder,None,169-026 PIDGEON MEADOW ROAD,Queens,East Flushing
+310773,3,Fair,boxelder,None,713 46 STREET,Brooklyn,Sunset Park East
+300587,11,Fair,boxelder,None,460 ARTHUR KILL ROAD,Staten Island,Great Kills
+300586,35,Good,boxelder,None,460 ARTHUR KILL ROAD,Staten Island,Great Kills
+332516,12,Good,boxelder,"Stones,BranchLights",98 ROCKVILLE AVENUE,Staten Island,New Springville-Bloomfield-Travis
+332515,13,Good,boxelder,Stones,98 ROCKVILLE AVENUE,Staten Island,New Springville-Bloomfield-Travis
+309580,13,Good,boxelder,"Stones,RootOther",1501 NOSTRAND AVENUE,Brooklyn,Erasmus
+361771,4,Fair,boxelder,None,14 CULOTTA LANE,Staten Island,Charleston-Richmond Valley-Tottenville
+342910,3,Good,boxelder,None,91-041 110 STREET,Queens,Richmond Hill
+370066,21,Good,boxelder,Stones,1651 SEDDON STREET,Bronx,Westchester-Unionport
+393579,14,Poor,boxelder,None,8 BLAND PLACE,Staten Island,Annadale-Huguenot-Prince's Bay-Eltingville
+485806,7,Good,boxelder,None,94-021 25 AVENUE,Queens,East Elmhurst
+501456,4,Good,boxelder,None,1156 WHEELER AVENUE,Bronx,Soundview-Bruckner
+548418,19,Good,boxelder,None,243-050 145 AVENUE,Queens,Rosedale
+499331,6,Good,boxelder,None,2066 WEST STREET,Brooklyn,Bensonhurst East
+561080,19,Good,boxelder,Stones,113-044 199 STREET,Queens,St. Albans
+557349,17,Poor,boxelder,None,4377 BULLARD AVENUE,Bronx,Woodlawn-Wakefield
+557358,11,Good,boxelder,WiresRope,4381 BULLARD AVENUE,Bronx,Woodlawn-Wakefield
+557361,13,Good,boxelder,WiresRope,4381 BULLARD AVENUE,Bronx,Woodlawn-Wakefield
+557362,11,Good,boxelder,WiresRope,4381 BULLARD AVENUE,Bronx,Woodlawn-Wakefield
+557356,8,Good,boxelder,WiresRope,4381 BULLARD AVENUE,Bronx,Woodlawn-Wakefield
+557355,22,Good,boxelder,Stones,4381 BULLARD AVENUE,Bronx,Woodlawn-Wakefield
+557396,7,Good,boxelder,None,401 EAST 238 STREET,Bronx,Woodlawn-Wakefield
+557364,12,Good,boxelder,WiresRope,4381 BULLARD AVENUE,Bronx,Woodlawn-Wakefield
+557363,13,Good,boxelder,WiresRope,4381 BULLARD AVENUE,Bronx,Woodlawn-Wakefield
+602137,6,Poor,boxelder,None,2270 EAST 74 STREET,Brooklyn,Georgetown-Marine Park-Bergen Beach-Mill Basin
+596572,22,Good,boxelder,Stones,88-001 247 STREET,Queens,Bellerose
+682453,11,Fair,boxelder,None,43-030 172 STREET,Queens,Auburndale
+687830,6,Good,boxelder,None,73-066 190 STREET,Queens,Fresh Meadows-Utopia
+701102,18,Good,boxelder,None,2022 OCEAN PARKWAY,Brooklyn,Homecrest
+701103,16,Good,boxelder,None,2022 OCEAN PARKWAY,Brooklyn,Homecrest
+682806,4,Good,boxelder,None,1299 EAST 49 STREET,Brooklyn,Flatlands
+658575,26,Good,boxelder,None,411 INGRAM AVENUE,Staten Island,Westerleigh
+698529,21,Good,boxelder,None,154-041 WILLETS POINT BOULEVARD,Queens,Whitestone
+45110,22,Fair,boxelder,None,106 GALLOWAY AVENUE,Staten Island,Port Richmond
+45111,12,Good,boxelder,None,106 GALLOWAY AVENUE,Staten Island,Port Richmond
+45112,2,Fair,boxelder,None,106 GALLOWAY AVENUE,Staten Island,Port Richmond
+55081,2,Good,boxelder,None,840 BARRY STREET,Bronx,Hunts Point
+45113,11,Good,boxelder,None,106 GALLOWAY AVENUE,Staten Island,Port Richmond
+20948,5,Good,boxelder,None,23-018 33 STREET,Queens,Steinway
+88179,7,Good,boxelder,None,427 WEST 261 STREET,Bronx,North Riverdale-Fieldston-Riverdale
+95576,2,Fair,boxelder,None,251-59 71 ROAD,Queens,Glen Oaks-Floral Park-New Hyde Park
+103684,4,Good,boxelder,None,6917 SHORE ROAD,Brooklyn,Bay Ridge
+166425,1,Fair,boxelder,None,329 MAINE AVENUE,Staten Island,Westerleigh
+166426,1,Fair,boxelder,None,325 MAINE AVENUE,Staten Island,Westerleigh
+154273,1,Good,boxelder,None,3333 FT HAMILTON PARKWAY,Brooklyn,Kensington-Ocean Parkway
+127413,2,Good,boxelder,None,36 JORALEMON STREET,Brooklyn,Brooklyn Heights-Cobble Hill
+168608,3,Poor,boxelder,RootOther,586 HENDRIX STREET,Brooklyn,East New York
+180808,3,Fair,boxelder,None,1937 GATES AVENUE,Queens,Ridgewood
+139157,4,Good,black pine,None,310 WEST 128 STREET,Manhattan,Central Harlem North-Polo Grounds
+159568,5,Good,black pine,None,761 GRAND STREET,Brooklyn,East Williamsburg
+105974,9,Good,black pine,BranchLights,68-021 64 PLACE,Queens,Ridgewood
+42823,10,Good,black pine,None,160-007 NORMAL ROAD,Queens,Briarwood-Jamaica Hills
+214595,4,Good,black pine,None,147-045 75 ROAD,Queens,Kew Gardens Hills
+139158,5,Good,black pine,None,310 WEST 128 STREET,Manhattan,Central Harlem North-Polo Grounds
+130768,32,Good,black pine,None,84 6 AVENUE,Brooklyn,Park Slope-Gowanus
+214594,4,Good,black pine,None,147-045 75 ROAD,Queens,Kew Gardens Hills
+130770,27,Fair,black pine,"Stones,BranchOther",94 6 AVENUE,Brooklyn,Park Slope-Gowanus
+216182,11,Poor,black pine,None,6 GREEN VALLEY ROAD,Staten Island,Arden Heights
+236934,7,Good,black pine,None,72-040 BURNS STREET,Queens,Forest Hills
+214656,4,Good,black pine,None,147-046 75 AVENUE,Queens,Kew Gardens Hills
+276328,12,Fair,black pine,None,953 EAST 85 STREET,Brooklyn,Canarsie
+16264,3,Good,black pine,None,480 WEST 187 STREET,Manhattan,Washington Heights North
+68172,5,Good,black pine,None,1006 DR M L KING JR BOULEVARD,Bronx,Highbridge
+252939,8,Good,black pine,None,101-010 222 STREET,Queens,Queens Village
+201003,15,Poor,black pine,None,40-008 201 STREET,Queens,Bayside-Bayside Hills
+546636,6,Fair,black pine,BranchOther,123-016 31 AVENUE,Queens,College Point
+201004,13,Poor,black pine,None,40-008 201 STREET,Queens,Bayside-Bayside Hills
+546633,5,Fair,black pine,None,123-016 31 AVENUE,Queens,College Point
+546635,5,Fair,black pine,BranchOther,123-016 31 AVENUE,Queens,College Point
+546632,5,Fair,black pine,None,123-016 31 AVENUE,Queens,College Point
+441374,22,Good,black pine,None,4809 SNYDER AVENUE,Brooklyn,East Flatbush-Farragut
+578738,21,Good,black pine,Stones,400 MOUNTAINVIEW AVENUE,Staten Island,New Springville-Bloomfield-Travis
+484456,7,Fair,black pine,BranchOther,219 BEACH 146 STREET,Queens,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel
+451247,20,Good,black pine,"Stones,RootOther",829 CONCOURSE VILLAGE WEST,Bronx,East Concourse-Concourse Village
+546634,5,Fair,black pine,BranchOther,123-016 31 AVENUE,Queens,College Point
+475398,9,Fair,black pine,None,10 LA FORGE PLACE,Staten Island,Port Richmond
+546660,4,Fair,black pine,BranchOther,129-005 31 AVENUE,Queens,College Point
+546644,3,Fair,black pine,BranchOther,123-016 31 AVENUE,Queens,College Point
+609024,9,Good,black pine,None,141-007 222 STREET,Queens,Laurelton
+616998,12,Good,black pine,"RootOther,WiresRope",43-018 249 STREET,Queens,Douglas Manor-Douglaston-Little Neck
+546637,8,Fair,black pine,None,123-016 31 AVENUE,Queens,College Point
+546658,8,Fair,black pine,BranchOther,129-005 31 AVENUE,Queens,College Point
+546643,7,Fair,black pine,BranchOther,123-016 31 AVENUE,Queens,College Point
+546659,7,Fair,black pine,BranchOther,129-005 31 AVENUE,Queens,College Point
+546645,6,Fair,black pine,BranchOther,123-016 31 AVENUE,Queens,College Point
+43433,27,Good,European alder,None,166-003 21 AVENUE,Queens,Ft. Totten-Bay Terrace-Clearview
+101706,7,Fair,European alder,"Stones,RootOther,TrunkOther",846 BECK STREET,Bronx,Longwood
+145627,3,Good,European alder,None,21-030 47 STREET,Queens,Steinway
+195877,4,Good,European alder,None,286 11 STREET,Brooklyn,Park Slope-Gowanus
+258314,3,Fair,European alder,Stones,703 EAST 156 STREET,Bronx,Melrose South-Mott Haven North
+260659,3,Poor,European alder,None,810 WEST 183 STREET,Manhattan,Washington Heights North
+329315,3,Fair,European alder,BranchOther,823 DEKALB AVENUE,Brooklyn,Bedford
+205697,3,Fair,European alder,None,72-012 DITMARS BOULEVARD,Queens,Steinway
+253074,18,Fair,European alder,Stones,94-034 HOLLIS COURT BOULEVARD,Queens,Queens Village
+272305,5,Fair,European alder,None,20-028 MURRAY STREET,Queens,Whitestone
+272306,6,Fair,European alder,None,20-028 MURRAY STREET,Queens,Whitestone
+303746,2,Good,European alder,None,340 WATERS AVENUE,Staten Island,Port Richmond
+391889,5,Good,European alder,None,1903 HOMECREST AVENUE,Brooklyn,Homecrest
+319758,2,Fair,European alder,None,2417 EAST 65 STREET,Brooklyn,Georgetown-Marine Park-Bergen Beach-Mill Basin
+388529,12,Good,European alder,BranchLights,1614 RADCLIFF AVENUE,Bronx,Van Nest-Morris Park-Westchester Square
+429460,5,Good,European alder,None,37-008 233 PLACE,Queens,Douglas Manor-Douglaston-Little Neck
+48858,8,Fair,European alder,"Stones,BranchOther",406 EAST 62 STREET,Manhattan,Lenox Hill-Roosevelt Island
+410263,4,Good,European alder,None,65-008 78 STREET,Queens,Middle Village
+393054,8,Good,European alder,Stones,590 EAST 166 STREET,Bronx,Morrisania-Melrose
+408194,4,Good,European alder,None,1706 10 AVENUE,Brooklyn,Windsor Terrace
+325336,4,Good,European alder,None,1230 SEABURY AVENUE,Bronx,Westchester-Unionport
+410282,4,Good,European alder,None,65-054 78 STREET,Queens,Middle Village
+410271,3,Good,European alder,None,65-028 78 STREET,Queens,Middle Village
+325333,4,Good,European alder,None,1230 SEABURY AVENUE,Bronx,Westchester-Unionport
+410265,3,Good,European alder,None,65-012 78 STREET,Queens,Middle Village
+410264,4,Good,European alder,None,65-010 78 STREET,Queens,Middle Village
+410220,14,Good,European alder,None,65-033 78 STREET,Queens,Middle Village
+410283,4,Good,European alder,None,65-054 78 STREET,Queens,Middle Village
+450441,2,Good,European alder,None,796 SUTTER AVENUE,Brooklyn,East New York
+430000,4,Good,European alder,None,175 GARFIELD AVENUE,Staten Island,Stapleton-Rosebank
+444350,29,Fair,European alder,BranchLights,240-049 42 AVENUE,Queens,Douglas Manor-Douglaston-Little Neck
+429999,3,Good,European alder,None,175 GARFIELD AVENUE,Staten Island,Stapleton-Rosebank
+391890,5,Good,European alder,None,1218 AVENUE S,Brooklyn,Homecrest
+526028,6,Good,European alder,None,35 GAYNOR STREET,Staten Island,Charleston-Richmond Valley-Tottenville
+577999,3,Good,European alder,None,1714 TROY AVENUE,Brooklyn,Flatlands
+593325,4,Good,European alder,None,1731 62 STREET,Brooklyn,Bensonhurst West
+612836,3,Good,European alder,None,55-002 GRAND AVENUE,Queens,Maspeth
+620453,20,Good,European alder,"Stones,BranchLights",67-021 49 AVENUE,Queens,Elmhurst-Maspeth
+17633,2,Good,European alder,None,122 GRYMES HILL ROAD,Staten Island,Grymes Hill-Clifton-Fox Hills
+53560,4,Fair,European alder,None,59 WILCOX STREET,Staten Island,Mariner's Harbor-Arlington-Port Ivory-Graniteville
+53562,5,Fair,European alder,None,63 WILCOX STREET,Staten Island,Mariner's Harbor-Arlington-Port Ivory-Graniteville
+53561,4,Fair,European alder,None,61 WILCOX STREET,Staten Island,Mariner's Harbor-Arlington-Port Ivory-Graniteville
+53563,5,Good,European alder,None,63 WILCOX STREET,Staten Island,Mariner's Harbor-Arlington-Port Ivory-Graniteville
+53564,4,Good,European alder,None,65 WILCOX STREET,Staten Island,Mariner's Harbor-Arlington-Port Ivory-Graniteville
+64335,2,Good,European alder,"Stones,RootOther,TrunkOther",359 EAST 5 STREET,Brooklyn,Kensington-Ocean Parkway
+53558,4,Good,European alder,None,57 WILCOX STREET,Staten Island,Mariner's Harbor-Arlington-Port Ivory-Graniteville
+53565,5,Fair,European alder,None,65 WILCOX STREET,Staten Island,Mariner's Harbor-Arlington-Port Ivory-Graniteville
+171647,31,Good,Osage-orange,None,506 BEACH 9 STREET,Queens,Far Rockaway-Bayswater
+210427,3,Good,Osage-orange,None,268 MORELAND STREET,Staten Island,New Dorp-Midland Beach
+210426,6,Good,Osage-orange,None,268 MORELAND STREET,Staten Island,New Dorp-Midland Beach
+295173,18,Fair,Osage-orange,None,3750 RICHMOND ROAD,Staten Island,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill
+328950,3,Good,Osage-orange,None,104 EAST 196 STREET,Bronx,Van Cortlandt Village
+379438,15,Good,Osage-orange,None,15 BLUE HERON COURT,Staten Island,Annadale-Huguenot-Prince's Bay-Eltingville
+378411,3,Fair,Osage-orange,TrunkOther,2843 HEATH AVENUE,Bronx,Van Cortlandt Village
+397987,10,Good,Osage-orange,None,1623 MADISON PLACE,Brooklyn,Georgetown-Marine Park-Bergen Beach-Mill Basin
+393078,5,Good,Osage-orange,Stones,26-033 212 STREET,Queens,Bayside-Bayside Hills
+410331,2,Good,Osage-orange,None,65-033 77 PLACE,Queens,Middle Village
+410332,2,Fair,Osage-orange,None,65-025 77 PLACE,Queens,Middle Village
+478469,13,Good,Osage-orange,Stones,44-037 55 AVENUE,Queens,Hunters Point-Sunnyside-West Maspeth
+553036,9,Good,Osage-orange,BranchLights,245 MC CLEAN AVENUE,Staten Island,Grasmere-Arrochar-Ft. Wadsworth
+579263,3,Good,Osage-orange,None,75 HAMILTON AVENUE,Brooklyn,Carroll Gardens-Columbia Street-Red Hook
+597622,2,Good,Osage-orange,None,14-070 154 STREET,Queens,Whitestone
+567730,3,Good,Osage-orange,None,130-040 234 STREET,Queens,Laurelton
+660740,4,Good,Osage-orange,Stones,196-007 89 AVENUE,Queens,Jamaica Estates-Holliswood
+676219,7,Good,Osage-orange,None,1771 EAST 27 STREET,Brooklyn,Madison
+23008,4,Good,Osage-orange,None,540 44 STREET,Brooklyn,Sunset Park East
+13328,10,Good,Osage-orange,None,123-009 5 AVENUE,Queens,College Point
+11411,2,Good,Osage-orange,None,770 ONDERDONK AVENUE,Queens,Ridgewood
+11410,2,Good,Osage-orange,None,770 ONDERDONK AVENUE,Queens,Ridgewood
+10610,3,Good,Osage-orange,None,547 FULTON STREET,Brooklyn,Fort Greene
+10609,3,Good,Osage-orange,None,2 DEKALB AVENUE,Brooklyn,Fort Greene
+52515,0,Good,Osage-orange,None,195 EDGECOMBE AVENUE,Manhattan,Hamilton Heights
+81368,4,Good,Osage-orange,None,161 JAMAICA AVENUE,Brooklyn,Cypress Hills-City Line
+122946,4,Good,Osage-orange,None,98 JAVA STREET,Brooklyn,Greenpoint
+120129,5,Good,Osage-orange,None,318 JACKSON AVENUE,Bronx,Mott Haven-Port Morris
+172454,2,Good,Osage-orange,None,64-013 WOODBINE STREET,Queens,Ridgewood
+529303,4,Good,pitch pine,None,147 AMSTERDAM AVENUE,Manhattan,Lincoln Square
+221098,8,Good,pitch pine,TrunkOther,246 EAST 33 STREET,Manhattan,Murray Hill-Kips Bay
+211099,11,Good,pitch pine,None,125 AVISTON STREET,Staten Island,Oakwood-Oakwood Beach
+16265,4,Good,pitch pine,None,480 WEST 187 STREET,Manhattan,Washington Heights North
+144522,4,Good,pitch pine,None,71-059 LOUBET STREET,Queens,Forest Hills
+118190,3,Good,pitch pine,None,126 NORMAN AVENUE,Brooklyn,Greenpoint
+594077,22,Good,pitch pine,None,253-008 80 AVENUE,Queens,Glen Oaks-Floral Park-New Hyde Park
+85901,9,Good,pitch pine,RootOther,3601 AVENUE J,Brooklyn,Flatlands
+58588,3,Good,pitch pine,None,218 LEVERETT AVENUE,Staten Island,Great Kills
+10217,25,Good,pitch pine,Stones,164-005 UNDERHILL AVENUE,Queens,East Flushing
+89166,25,Good,pitch pine,Stones,31-030 138 STREET,Queens,Flushing
+189150,13,Good,pitch pine,None,25 MONTGOMERY PLACE,Brooklyn,Park Slope-Gowanus
+256423,11,Good,pitch pine,None,15 EAST 164 STREET,Bronx,West Concourse
+238861,8,Good,pitch pine,None,81 OCEAN PARKWAY,Brooklyn,Windsor Terrace
+297504,19,Good,pitch pine,"BranchLights,BranchOther",1540 EAST 56 STREET,Brooklyn,Flatlands
+159947,4,Good,pitch pine,None,56 PARKINSON AVENUE,Staten Island,Old Town-Dongan Hills-South Beach
+424016,9,Good,pitch pine,None,398 RIDGEWOOD AVENUE,Brooklyn,Cypress Hills-City Line
+141958,4,Good,pitch pine,None,178 NORTH 11 STREET,Brooklyn,North Side-South Side
+159946,4,Good,pitch pine,None,56 PARKINSON AVENUE,Staten Island,Old Town-Dongan Hills-South Beach
+332316,6,Good,pitch pine,None,300 ROBINSON AVENUE,Staten Island,Great Kills
+287523,14,Good,pitch pine,None,105 MANSION AVENUE,Staten Island,Great Kills
+581965,30,Good,pitch pine,Stones,174-050 126 AVENUE,Queens,St. Albans
+161988,30,Good,pitch pine,BranchLights,105-018 77 STREET,Queens,Ozone Park
+259099,4,Good,pitch pine,Stones,21-033 25 ROAD,Queens,Old Astoria
+99672,21,Good,pitch pine,Stones,2120 LAFAYETTE AVENUE,Bronx,Westchester-Unionport
+297016,3,Good,pitch pine,None,79-20 WINCHESTER BOULEVARD,Queens,Bellerose
+214468,4,Good,pitch pine,None,221-004 CORBETT ROAD,Queens,Bayside-Bayside Hills
+426729,3,Good,pitch pine,None,130 GLEN STREET,Brooklyn,Cypress Hills-City Line
+263141,29,Good,pitch pine,Stones,187 LAFAYETTE AVENUE,Brooklyn,Fort Greene
+114009,16,Good,pitch pine,None,739 NORTH OAK DRIVE,Bronx,Williamsbridge-Olinville
+236849,4,Good,pitch pine,None,229-010 146 AVENUE,Queens,Springfield Gardens South-Brookville
+65522,10,Good,pitch pine,None,471 WEST 141 STREET,Manhattan,Hamilton Heights
+135273,11,Good,pitch pine,None,400 WEST 123 STREET,Manhattan,Morningside Heights
+162818,2,Good,Scots pine,None,641 EAST 9 STREET,Manhattan,Lower East Side
+223087,3,Good,Scots pine,None,11 ALTOONA AVENUE,Staten Island,Oakwood-Oakwood Beach
+214565,20,Good,Scots pine,None,72-002 GREENWAY SOUTH,Queens,Forest Hills
+310446,9,Good,Scots pine,None,675 EAST 24 STREET,Brooklyn,Flatbush
+343748,20,Good,Scots pine,Stones,65-026 GRAND CENTRAL PARKWAY,Queens,Forest Hills
+378830,15,Good,Scots pine,None,900 PELHAM PARKWAY SOUTH,Bronx,Pelham Parkway
+432856,4,Good,Scots pine,None,95-020 ASTORIA BOULEVARD,Queens,East Elmhurst
+496779,3,Good,Scots pine,None,2015 GILDERSLEEVE AVENUE,Bronx,Soundview-Castle Hill-Clason Point-Harding Park
+463418,6,Fair,Scots pine,None,34 NORTHFIELD AVENUE,Staten Island,Mariner's Harbor-Arlington-Port Ivory-Graniteville
+550032,11,Good,Scots pine,"WiresRope,BranchLights",169 DANIEL LOW TERRACE,Staten Island,West New Brighton-New Brighton-St. George
+693648,14,Fair,Scots pine,None,963 EAST 99 STREET,Brooklyn,Canarsie
+15239,5,Good,Scots pine,None,27 NORTH DRIVE,Queens,Whitestone
+15238,5,Good,Scots pine,None,25 NORTH DRIVE,Queens,Whitestone
+19449,14,Good,Scots pine,BranchLights,39-001 54 STREET,Queens,Woodside
+89385,1,Good,Scots pine,None,69-009 65 STREET,Queens,Ridgewood
+77056,1,Good,Scots pine,None,260 ST NICHOLAS AVENUE,Brooklyn,Bushwick North
+89359,3,Good,Scots pine,None,221 WEST 78 STREET,Manhattan,Upper West Side
+98044,28,Good,Scots pine,TrunkOther,124-003 6 AVENUE,Queens,College Point
+106043,18,Good,Scots pine,None,85-015 FOREST PARKWAY,Queens,Woodhaven
+89382,1,Good,Scots pine,None,69-009 65 STREET,Queens,Ridgewood
+120535,8,Fair,Scots pine,None,154-010 SOUTH CONDUIT AVENUE,Queens,Springfield Gardens South-Brookville
+120532,8,Poor,Scots pine,None,144-001 155 STREET,Queens,Springfield Gardens South-Brookville
+106048,18,Good,Scots pine,None,85-015 FOREST PARKWAY,Queens,Woodhaven
+106044,17,Good,Scots pine,None,85-015 FOREST PARKWAY,Queens,Woodhaven
+106045,17,Good,Scots pine,None,85-015 FOREST PARKWAY,Queens,Woodhaven
+229140,9,Good,Shantung maple,None,270-011 78 AVENUE,Queens,Glen Oaks-Floral Park-New Hyde Park
+228978,9,Good,Shantung maple,None,269-007 78 AVENUE,Queens,Glen Oaks-Floral Park-New Hyde Park
+227057,9,Fair,Shantung maple,None,79-042 270 STREET,Queens,Glen Oaks-Floral Park-New Hyde Park
+250573,7,Poor,Shantung maple,BranchOther,440 SCHENCK AVENUE,Brooklyn,East New York
+268769,10,Good,Shantung maple,None,128-012 238 STREET,Queens,Laurelton
+268767,13,Good,Shantung maple,None,128-008 238 STREET,Queens,Laurelton
+265661,20,Good,Shantung maple,Stones,109-011 207 STREET,Queens,Queens Village
+269893,3,Good,Shantung maple,None,43-017 215 PLACE,Queens,Bayside-Bayside Hills
+274011,3,Fair,Shantung maple,None,158-016 102 STREET,Queens,Lindenwood-Howard Beach
+270560,4,Fair,Shantung maple,None,16 SHARROTTS ROAD,Staten Island,Charleston-Richmond Valley-Tottenville
+268770,11,Good,Shantung maple,None,128-016 238 STREET,Queens,Laurelton
+268775,10,Good,Shantung maple,RootOther,128-050 238 STREET,Queens,Laurelton
+268774,14,Good,Shantung maple,RootOther,128-042 238 STREET,Queens,Laurelton
+321465,22,Good,Shantung maple,"Stones,RootOther,WiresRope,BranchLights",736 LINCOLN AVENUE,Brooklyn,East New York
+364033,3,Poor,Shantung maple,None,137-030 218 STREET,Queens,Laurelton
+356186,2,Good,Shantung maple,None,167 AUBURN AVENUE,Staten Island,Port Richmond
+381368,16,Good,Shantung maple,Stones,69-071 228 STREET,Queens,Oakland Gardens
+389573,19,Poor,Shantung maple,"RootOther,TrunkOther",154 PRINCETON AVENUE,Staten Island,New Dorp-Midland Beach
+446036,4,Good,Shantung maple,None,659 CRESCENT STREET,Brooklyn,East New York
+445223,4,Good,Shantung maple,None,719 CRESCENT STREET,Brooklyn,East New York
+445224,3,Good,Shantung maple,None,719 CRESCENT STREET,Brooklyn,East New York
+445222,3,Fair,Shantung maple,None,719 CRESCENT STREET,Brooklyn,East New York
+451700,3,Good,Shantung maple,None,458 ASHFORD STREET,Brooklyn,East New York
+451567,3,Good,Shantung maple,None,472 ASHFORD STREET,Brooklyn,East New York
+462299,13,Good,Shantung maple,None,465 NEW DORP LANE,Staten Island,New Dorp-Midland Beach
+451701,2,Good,Shantung maple,None,458 ASHFORD STREET,Brooklyn,East New York
+488558,4,Fair,Shantung maple,None,2500 MORRIS AVENUE,Bronx,Bedford Park-Fordham North
+475384,26,Poor,Shantung maple,None,113 BURDEN AVENUE,Staten Island,Port Richmond
+495357,2,Good,Shantung maple,None,3459 DEKALB AVENUE,Bronx,Norwood
+495359,2,Good,Shantung maple,None,3459 DEKALB AVENUE,Bronx,Norwood
+463527,3,Good,Shantung maple,None,386 DONGAN HILLS AVENUE,Staten Island,Old Town-Dongan Hills-South Beach
+495390,3,Good,Shantung maple,None,3447 DEKALB AVENUE,Bronx,Norwood
+495358,3,Good,Shantung maple,None,3459 DEKALB AVENUE,Bronx,Norwood
+505866,3,Good,Shantung maple,None,330 UNDERHILL AVENUE,Bronx,Soundview-Castle Hill-Clason Point-Harding Park
+486801,2,Good,Shantung maple,None,34-055 32 STREET,Queens,Astoria
+519782,7,Good,Shantung maple,None,4569 FURMAN AVENUE,Bronx,Woodlawn-Wakefield
+529286,3,Good,Shantung maple,None,42-047 78 STREET,Queens,Elmhurst
+519783,2,Fair,Shantung maple,None,4569 FURMAN AVENUE,Bronx,Woodlawn-Wakefield
+528977,3,Good,Shantung maple,None,76-011 45 AVENUE,Queens,Elmhurst-Maspeth
+548119,2,Good,Shantung maple,None,1280 EAST 31 STREET,Brooklyn,Midwood
+546748,2,Good,Shantung maple,None,4321 AVENUE I,Brooklyn,Flatlands
+579251,7,Good,Shantung maple,Stones,343 NORTH GANNON AVENUE,Staten Island,Westerleigh
+586677,12,Good,Shantung maple,None,45 AMSTERDAM PLACE,Staten Island,New Springville-Bloomfield-Travis
+636391,3,Good,Shantung maple,None,143-019 97 AVENUE,Queens,Jamaica
+700629,2,Poor,Shantung maple,None,90-016 162 AVENUE,Queens,Lindenwood-Howard Beach
+51951,32,Good,Shantung maple,Stones,227-006 53 AVENUE,Queens,Oakland Gardens
+96497,18,Good,Shantung maple,None,21-017 46 AVENUE,Queens,Hunters Point-Sunnyside-West Maspeth
+124754,3,Fair,Shantung maple,None,80 REDGRAVE AVENUE,Staten Island,Great Kills
+135681,15,Good,Shantung maple,"Stones,RootOther,BranchLights",47-027 158 STREET,Queens,East Flushing
+124221,2,Good,Shantung maple,None,82 FIELDWAY AVENUE,Staten Island,Great Kills
+143273,5,Good,Shantung maple,None,71-006 LOUBET STREET,Queens,Forest Hills
+124220,2,Good,Shantung maple,None,82 FIELDWAY AVENUE,Staten Island,Great Kills
+143088,16,Good,Shantung maple,BranchLights,71-032 MANSE STREET,Queens,Forest Hills
+123453,3,Good,Shantung maple,None,9-001 123 STREET,Queens,College Point
+168946,20,Good,Shantung maple,Stones,63-034 DIETERLE CRESCENT,Queens,Rego Park
+130557,2,Good,Shantung maple,None,30-083 41 STREET,Queens,Astoria
+143383,13,Good,Shantung maple,Stones,146 LINCOLN PLACE,Brooklyn,Park Slope-Gowanus
+185336,3,Good,Shantung maple,TrunkOther,601 EAST 191 STREET,Bronx,Belmont
+181687,8,Good,Shantung maple,None,98-020 165 AVENUE,Queens,Lindenwood-Howard Beach
+25662,1,Good,smoketree,None,23 WEST 20 ROAD,Queens,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel
+138908,9,Fair,smoketree,TrunkOther,11-038 129 STREET,Queens,College Point
+11994,7,Good,smoketree,None,148-040 56 ROAD,Queens,Queensboro Hill
+38793,0,Good,smoketree,None,536 17 STREET,Brooklyn,Windsor Terrace
+138909,8,Good,smoketree,TrunkOther,11-038 129 STREET,Queens,College Point
+127170,9,Good,smoketree,None,86-023 86 STREET,Queens,Woodhaven
+60274,3,Fair,smoketree,BranchLights,1340 SPOFFORD AVENUE,Bronx,Hunts Point
+172057,4,Good,smoketree,None,110-055 70 ROAD,Queens,Forest Hills
+258273,3,Good,smoketree,None,231-007 128 AVENUE,Queens,Laurelton
+192130,10,Good,smoketree,BranchLights,15-035 128 STREET,Queens,College Point
+287904,2,Good,smoketree,None,54-018 111 STREET,Queens,Corona
+367971,3,Fair,smoketree,TrunkOther,220-004 137 AVENUE,Queens,Laurelton
+429811,31,Good,smoketree,None,206 RUBY STREET,Brooklyn,Cypress Hills-City Line
+410359,4,Good,smoketree,None,65-013 77 STREET,Queens,Middle Village
+364413,2,Fair,smoketree,None,219-019 137 ROAD,Queens,Laurelton
+568274,4,Good,smoketree,None,213 GREENE AVENUE,Brooklyn,Clinton Hill
+364415,2,Fair,smoketree,None,219-013 137 ROAD,Queens,Laurelton
+603567,4,Good,smoketree,None,87-060 117 STREET,Queens,Richmond Hill
+418079,3,Good,smoketree,None,84-010 110 STREET,Queens,Richmond Hill
+269710,6,Good,smoketree,None,110-033 68 ROAD,Queens,Forest Hills
+367646,4,Good,smoketree,None,2779 HONE AVENUE,Bronx,Allerton-Pelham Gardens
+437660,3,Good,smoketree,None,42 LINWOOD AVENUE,Staten Island,Grasmere-Arrochar-Ft. Wadsworth
+584147,2,Good,smoketree,None,179-006 MURDOCK AVENUE,Queens,St. Albans
+631194,2,Fair,smoketree,None,81-038 190 STREET,Queens,Jamaica Estates-Holliswood
+584150,3,Fair,smoketree,None,114-019 179 STREET,Queens,St. Albans
+603568,4,Good,smoketree,BranchOther,87-060 117 STREET,Queens,Richmond Hill
+654075,3,Good,smoketree,None,320 BEACH 102 STREET,Queens,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel
+607522,5,Good,smoketree,None,109-038 216 STREET,Queens,Queens Village
+659237,5,Good,smoketree,None,35-012 161 STREET,Queens,Murray Hill
+654076,7,Good,smoketree,None,320 BEACH 102 STREET,Queens,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel
+561386,4,Good,smoketree,None,4804 FOSTER AVENUE,Brooklyn,East Flatbush-Farragut
+670067,3,Good,smoketree,None,13-028 138 STREET,Queens,Whitestone
+606948,1,Good,smoketree,None,187-011 MANGIN AVENUE,Queens,St. Albans
+683339,11,Fair,smoketree,None,56-004 213 STREET,Queens,Bayside-Bayside Hills
+714039,4,Good,smoketree,None,86-035 76 STREET,Queens,Woodhaven
+561390,4,Good,smoketree,None,4824 FOSTER AVENUE,Brooklyn,East Flatbush-Farragut
+635556,3,Good,smoketree,None,182-064 80 DRIVE,Queens,Jamaica Estates-Holliswood
+636097,4,Good,smoketree,None,104-028 92 AVENUE,Queens,Richmond Hill
+648229,4,Good,smoketree,None,171-047 BAGLEY AVENUE,Queens,Auburndale
+685533,16,Good,smoketree,None,161-002 84 ROAD,Queens,Briarwood-Jamaica Hills
+669409,5,Good,smoketree,None,29-034 212 STREET,Queens,Bayside-Bayside Hills
+583037,3,Good,smoketree,None,91-002 69 AVENUE,Queens,Forest Hills
+659742,5,Good,smoketree,None,32-014 190 STREET,Queens,Auburndale
+668470,12,Good,smoketree,None,1775 WEST 6 STREET,Brooklyn,Bensonhurst East
+485038,5,Poor,smoketree,BranchOther,48 CAMBRIDGE AVENUE,Staten Island,Port Richmond
+648230,3,Good,smoketree,None,171-047 BAGLEY AVENUE,Queens,Auburndale
+635557,2,Good,smoketree,None,182-064 80 DRIVE,Queens,Jamaica Estates-Holliswood
+665470,2,Good,smoketree,None,242-017 51 AVENUE,Queens,Douglas Manor-Douglaston-Little Neck
+642174,2,Good,smoketree,None,77 83 STREET,Brooklyn,Bay Ridge
+663430,9,Good,smoketree,None,157-007 26 AVENUE,Queens,Murray Hill
+665469,3,Good,smoketree,None,242-017 51 AVENUE,Queens,Douglas Manor-Douglaston-Little Neck
+622456,11,Good,smoketree,None,50-002 65 PLACE,Queens,Elmhurst-Maspeth
+629294,3,Good,smoketree,None,87-093 112 STREET,Queens,Richmond Hill
+24969,2,Fair,smoketree,None,2570 BENSON AVENUE,Brooklyn,Bensonhurst East
+78773,3,Good,smoketree,None,318 BOND STREET,Brooklyn,Carroll Gardens-Columbia Street-Red Hook
+38794,0,Good,smoketree,None,536 17 STREET,Brooklyn,Windsor Terrace
+99092,20,Fair,smoketree,None,262 WEST 236 STREET,Bronx,Spuyten Duyvil-Kingsbridge
+136733,11,Good,smoketree,None,18 EAST 1 STREET,Manhattan,East Village
+136662,10,Good,Virginia pine,Stones,55 AVENUE A,Manhattan,East Village
+162817,2,Poor,Virginia pine,None,641 EAST 9 STREET,Manhattan,Lower East Side
+141779,6,Good,Virginia pine,None,129 WEST 85 STREET,Manhattan,Upper West Side
+319334,3,Good,Virginia pine,None,80-061 254 STREET,Queens,Glen Oaks-Floral Park-New Hyde Park
+195903,2,Poor,Virginia pine,None,483 5 AVENUE,Brooklyn,Park Slope-Gowanus
+368290,1,Good,Virginia pine,None,2932 WILSON AVENUE,Bronx,Allerton-Pelham Gardens
+417741,3,Good,Virginia pine,None,2586 FULTON STREET,Brooklyn,East New York
+417753,4,Good,Virginia pine,None,2586 FULTON STREET,Brooklyn,East New York
+11300,3,Good,Virginia pine,None,1922 MADISON STREET,Queens,Ridgewood
+102096,6,Good,Virginia pine,None,156-012 109 AVENUE,Queens,South Jamaica

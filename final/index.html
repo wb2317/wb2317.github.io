@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>Manhattan Tree by Health Condition</title>
+  <title>NYC Street Tree - Top 10 Endangered Tree Species</title>
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <link rel="stylesheet" href="css/reset.css">
   <link rel="stylesheet" href="css/style.css">
@@ -10,18 +10,48 @@
 <body>
 
   <div class="container">
-    <h1>Manhattan Tree Health Distribution</h1>
+    <h1>Top 10 Endangered Tree Species in NYC</h1>
     <div id="toolbar">
       <a href="#" id="all" class="button active">All Trees</a>
-     
+      <a href="#" id="health" class="button">Tree By health Condition</a>
+
     </div>
     <div id="vis"></div>
+  </div> 
+  
+  <div class="legend1">
+    <h3>Health Condition</h3>
+     <div class="legend"> <p class="health-class"><span class="key-dot good"></span>Good</p> </div>
+     <div class="legend"> <p class="health-class"><span class="key-dot fair"></span>Fair</p> </div>
+     <div class="legend"> <p class="health-class"><span class="key-dot poor"></span>Poor</p> </div>
   </div>
+
+
+    <div class="footer">
+      <p>All the data are from 2015 Stree Tree Census</p>
+      <strong>Data Source: NYC Open Data</strong>
+      <p><a href="https://data.cityofnewyork.us/Environment/2015-Street-Tree-Census-Tree-Data/uvpi-gqnh">link</a></p>
+    </div>
+  </div>
+
+  <script>
+
+  var names = ["Virginia pine", "Scots pine","Osage-orange", "Pitch pine","Black pine", "American larch","European alder","smoketree","Shantung maple","boxelder","Himalayan cedar"];
+
+  var ul = d3.select('body').append('ul');
+
+  ul.selectAll('li')
+  .data(names)
+  .enter()
+  .append('li')
+  .html(String);
+
+</script>
 
   <script src="lib/d3.js"></script>
   <script src="src/tooltip.js"></script>
   <script src="src/tree.js"></script>
-
+  
 
 </body>
 </html>

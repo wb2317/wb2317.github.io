@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<title>Final Project: Top 10 Endangered Tree Species in NYC</title>
+<style>
+body { 
+  display: grid;
+  grid-template-areas: 
+    "header header header"
+    "article article article"
+    "footer footer footer"
+    "title title title";
+  grid-template-rows: 60px 1fr 60px;
+  grid-template-columns: 20% 1fr 15%;
+  grid-gap: 10px;
+  height: 100vh;
+  margin: 0;
+  }
+/* Stack the layout on small devices/viewports. */
+@media all and (max-width: 575px) {
+  body { 
+    grid-template-areas: 
+      "header"
+      "article"
+      "footer"
+      "title";
+    grid-template-rows: 80px 1fr 70px 1fr 70px;  
+    grid-template-columns: 1fr;
+ }
+}
+#pageHeader {
+  grid-area: header;
+}
+#pageTitle {
+  grid-area:title;
+}
+#pageFooter {
+  grid-area: footer;
+}
+#mainArticle { 
+  grid-area: article;      
+  }
+
+
+header, footer {
+  padding: 20px;
+  background: gold;
+}
+
+title {
+  padding:20px;
+  background:grey;
+}
+article {
+  padding: 20px;
+  background: white;
+}
+</style>
+
+<body>
+  <header style="font-size:200%;"id="pageHeader"><b>Final Project: Top 10 Endangered Tree Species in NYC</b></header>
+
+  <article id="mainArticle">
+  <center>
+    
+    <img src="nyc.jpg" alt="Mo" style="width:1000px;height:500px;">
+    <h1>Introduction</h1>
+    <p>
+    My project is concerned about the growth of trees for top 10 endangered species in NYC.The tree is our silent friend. Its ecological and landscape functions bring us irreplaceable benefits. It is praised as a living infrastructure. In the process of growth, it will be affected by extreme weather, human damage and its own diseases and other effects will result in the decline of growth potential.
+    Therefore, I pay more attention to their individual growth status than the distribution of tree species as shown in Jill Hubley's project.
+    </p>
+
+    <p>
+    <img src="1-MAPS-by-Jill-Hubley-Explore-NYC-Street-Trees-by-Species-lead-e1429023719464.jpg" alt="Mo" style="width:800px;height:500px;">
+    </p>
+    <p>
+    <a href="http://www.jillhubley.com/project/nyctrees//">NYC Street Trees by Species</a> 
+    </p>
+
+    <h1>Initial Proposal</h1>
+    <p>
+      According to New York City Parks, 680,621 trees are mapped on Street Tree Map (NYC Parks). The number of species is up to 298 and the most common one is London Planetree. Trees are protecting our ecological environment, but many people may not be aware of them.  Those benefits of street trees include but not limited to stormwater interception, energy conservation, air pollution mitigation, and carbon dioxide reduction. Perhaps it’s time to let people know more about their friends on streets. The demographic pattern can tell a lot about what we missed in the past and what we can do in the future. Therefore, I am interested in collect trees statistics in NYC and be able to categorize them through different aspects, such as age, species, boroughs, diseases, etc. However, laterly I found that those this format of visulaization may overrepresent the generalization of tree characters. We only know them as a group but not individual. 
+    </p>
+    <p>
+    <a href="https://wb2317.github.io/Assignment%207/week%201/index.html">Three Sketches for Initial Proposal</a> 
+    
+
+    <h1>Data</h1>
+    All data are from 2015 Stree Tree Census, which is provided by NYC Open Data. I cleaned and processed data through R and extract variables for 10 most endangered tree species as my sample. They are listed in ascending order in terms of quantity - Virginia pine, Scots pine, Osage-orange, pitch pine, black pine, American larch, European alder, Smoketree, Shantung maple, boxelder. Since those species rarely remains in NYC's tree system, I would like to investigate their health condition and problems that may cause vulnerability.
+    </p>
+    <p>
+    <img src="data.jpg" alt="Mo" style="width:300px;height:200px;">
+    <img src="7.jpg" alt="Mo" style="width:300px;height:200px;">
+    </p>
+
+    <h1>Design</h1>
+    <p>
+    The overall shape is like a tree ring. The size of each circle was calculated by the diameter of the tree. Diiferent color represented different health conditions: "good" is green, "fair" is yellow, and "poor" is red. Detailed profile for each tree displays along with the mouse. 
+    </p>
+
+    <p>
+    <img src="5.jpg" alt="Mo" style="width:800px;height:450px;">
+    <img src="6.jpg" alt="Mo" style="width:550px;height:500px;">
+    </p>
+
+    <p>
+    <a href="https://wb2317.github.io/Assignment%207/week%201/index.html">Check the Final Interative Bubble Chart</a> 
+    </p>
+
+    <h1>Findings</h1>
+    <p>
+    Most of the 10 endangered species get ill from an early age (relatively smaller diameters). Problems are human damages that vaires in different aspects: stones, branchlights, trunk, etc. Disease are not reported in the dataset.  
+    This gives me an inspiration: we could pay attention to the current status of the trees,  improving the understanding of their health condition, develop appropriate conservation management measures, and improve the disease resistance of trees especally for those endangered species.
+    </p>
+  </center>
+  </article>
+  <footer id="pageFooter"><b></b></footer>
+</body>

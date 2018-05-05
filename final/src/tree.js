@@ -61,7 +61,7 @@ function bubbleChart() {
   // Nice looking colors - no reason to buck the trend
   var fillColor = d3.scale.ordinal()
     .domain(['fair', 'good', 'poor'])
-    .range(['#b9ef94', '#a1f4b2', '#f1f081']);
+    .range(['#f2ef54', '#a1e85a', '#e8785a']);
 
   // Sizes bubbles based on their area instead of raw radius
   var radiusScale = d3.scale.pow()
@@ -93,6 +93,10 @@ function bubbleChart() {
         health: d.health,
         problems: d.problems,
         location: d.nta_name,
+        address: d.address,
+        month: d.month,
+        borough: d.borough,
+
         x: Math.random() * 900,
         y: Math.random() * 800
       };
@@ -283,8 +287,14 @@ function bubbleChart() {
                   '<span class="name">Problems: </span><span class="value">' +
                   d.problems +
                   '</span><br/>' +
+                  '<span class="name">Address: </span><span class="value">' +
+                  d.address +
+                  '</span><br/>' +
                   '<span class="name">Neighborhood: </span><span class="value">' +
                   d.location +
+                  '</span><br/>' +
+                  '<span class="name">Borough: </span><span class="value">' +
+                  d.borough +
                   '</span>';
     tooltip.showTooltip(content, d3.event);
   }
@@ -381,7 +391,7 @@ function addCommas(nStr) {
 }
 
 // Load the data.
-d3.csv('data/tree.csv', display);
+d3.csv('data/tendata_test.csv', display);
 
 // setup the buttons.
 setupButtons();
